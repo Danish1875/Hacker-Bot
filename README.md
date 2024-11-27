@@ -30,10 +30,16 @@ A cutting-edge research project exploring social engineering vulnerabilities thr
 - Pretexting scenario simulation
 - Context-aware AI interactions
 
+![Screenshot 2024-08-05 213041](https://github.com/user-attachments/assets/b550e07c-f255-488b-9750-da6c58d3e8db)
+
+
 ### Advanced Linguistic Analysis
 - Retrieval Augmented Generation (RAG) powered analysis
 - Susceptibility score calculation
 - Deceptive technique identification
+
+![Screenshot 2024-08-06 015324](https://github.com/user-attachments/assets/a654d0ce-8627-4cbd-911f-dd33345115b5)
+
 
 ## 📊 Methodology
 
@@ -48,6 +54,8 @@ The tool evaluates social engineering susceptibility across four distinct organi
 - Multi-point weighted scoring system
 - Impact-based cue classification
 - Normalized percentage-based vulnerability assessment
+
+![Screenshot 2024-07-30 172154](https://github.com/user-attachments/assets/eefac757-c307-4cfd-8b30-8b4eb2aee4b5)
 
 ## 🔍 Technical Components
 
